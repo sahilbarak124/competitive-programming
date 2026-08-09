@@ -1,0 +1,9 @@
+package JAVA;
+import java.util.*;
+public class nextlong {
+    public static void main(String args[]){
+        Scanner sc=new Scanner(System.in);
+        long input=sc.nextLong();
+        System.out.println(input);
+    }
+}
