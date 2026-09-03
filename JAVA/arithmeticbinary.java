@@ -1,4 +1,4 @@
-package JAVA;
+
 
 public class arithmeticbinary {
     public static void main(String args[]){

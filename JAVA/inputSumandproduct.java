@@ -1,4 +1,4 @@
-package JAVA;
+
 import java.util.*;
 public class inputSumandproduct {
     public static void main(String args[]){

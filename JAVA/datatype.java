@@ -1,4 +1,4 @@
-package JAVA;
+
 public class datatype {
     public static void main(String args[]) {
         byte b=8;

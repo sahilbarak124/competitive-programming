@@ -1,4 +1,4 @@
-package JAVA;
+
 import java.util.*;
 public class next {
     public static void main(String args[]){

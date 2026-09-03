@@ -1,4 +1,4 @@
-package JAVA;
+
 public class comment {
     public static void main(String args[]){
         // to calculate the sum of two numbers

@@ -1,4 +1,4 @@
-package JAVA;
+
 import java.util.*;
 public class nextlong {
     public static void main(String args[]){

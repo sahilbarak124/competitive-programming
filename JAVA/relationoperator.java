@@ -1,4 +1,4 @@
-package JAVA;
+
 
 public class relationoperator {
     public static void main(String args[]){

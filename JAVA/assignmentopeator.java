@@ -1,4 +1,4 @@
-package JAVA;
+
 
 public class assignmentopeator {
     public static void main(String args[]){

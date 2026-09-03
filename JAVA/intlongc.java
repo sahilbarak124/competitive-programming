@@ -1,4 +1,3 @@
-package JAVA;
 
 public class intlongc {
     public static void main(String args[]) {

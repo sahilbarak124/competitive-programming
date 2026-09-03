@@ -1,4 +1,4 @@
-package JAVA;
+
 
 public class unaryincrementdecrement {
     public static void main(String args[]){

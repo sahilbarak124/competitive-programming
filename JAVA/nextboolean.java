@@ -1,5 +1,3 @@
-package JAVA;
-
 import java.util.*;
 public class nextboolean {
     public static void main(String args[]){
